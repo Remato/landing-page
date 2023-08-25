@@ -7,6 +7,7 @@
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-execution">Execution</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Social Login">Social Login</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-demo">Demo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
@@ -31,6 +32,18 @@ This project was developed using the following technologies and standards:
 This is a project recreating the official landing page of [Forsman & Bodenfors](https://www.forsman.com/) in React
 
 ## ⚙️ Execution
+
+Install dependencies and run via Expo Go
+```sh
+yarn && yarn dev
+```
+
+## 👩‍💻 Social Login
+You will need a "Facebook App ID" and a "Google Client ID"
+
+    Rename the ".env.example" file to ".env".
+    And put the keys in their respective places
+
 
 Install dependencies and run via Expo Go
 ```sh
