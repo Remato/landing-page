@@ -9,8 +9,9 @@ In the project directory, you can run:
 yarn && yarn dev
 ```
 
-runs the app in the development mode and open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+runs the app in the development mode and open [http://localhost:5173](http://localhost:5173) to view it in the browser.
 
-## Live Version
-You can see a live game version [here](https://forsman.vercel.app/)
+## Demo
+
+You  can see a preview [HERE](https://drive.google.com/file/d/1UnrewuY2QXkFVwzm_lNmRsWg1GW6kWj9/view?usp=sharing)
 
