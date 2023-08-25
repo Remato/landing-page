@@ -1,6 +1,6 @@
 <h1 align="center"> Forsman & Bodenfors </h1>
 
-<p align="center">This project is being created with [React](https://react.dev/), [Redux](https://react-redux.js.org/) and [Typescript](https://www.typescriptlang.org/)<br/>
+<p align="center">This project is being created with <b>React</b>, <b>Redux</b> and <b>Typescript</b><br/>
 
 
 <p align="center">
